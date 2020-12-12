@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.card-img-top {
+  max-width: 80%;
+  border-radius: 50%;
+}
+
+.col-sm-4 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.modal-img {
+  border-radius: 50%;
+}
